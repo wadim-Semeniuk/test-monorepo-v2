@@ -9,5 +9,5 @@ useHead({
 </script>
 
 <template>
-  <div class="">Test monorepo DOCS with head</div>
+  <div class="">Test monorepo DOCS with head again</div>
 </template>
